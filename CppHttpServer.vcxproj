@@ -92,6 +92,7 @@
     <ClCompile Include="..\ReactorWebServer-Cpp-master\TcpServer.cpp" />
     <ClCompile Include="..\ReactorWebServer-Cpp-master\ThreadPool.cpp" />
     <ClCompile Include="..\ReactorWebServer-Cpp-master\WorkerThread.cpp" />
+    <ClCompile Include="sadas.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\ReactorWebServer-Cpp-master\Buffer.h" />
